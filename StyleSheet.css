@@ -1,0 +1,333 @@
+﻿body {
+}
+.center
+{
+    width:1250px;
+    height:auto;
+    float:left;
+    margin-left:30px;
+}
+.header-wrapper
+{
+    width:1350px;
+    height:80px;
+    position:fixed;
+    top:0;
+    left:10;
+    background-color:#fff;
+}
+.header1
+{
+    width:1000px;
+    height:30px;
+    float:left;
+    margin-left:100px;
+    padding-top:10px;
+    background-color:#fff;
+    
+}
+.header2
+{
+    width:1350px;
+    height:50px;
+    float:left;
+    background-color:#6E4D37;
+}
+
+.top-menu
+{
+    width:1050px;
+    height:50px;
+    float:left;
+    margin-left:100px;
+    margin-top:100px;
+}
+.cart
+{
+    width:300px;
+    height:40px;
+    float:right;
+    margin-right:30px;
+    margin-top:10px;
+}
+.top-menu ul
+{padding:0px;
+margin:0px;
+list-style:none;
+}
+.top-menu li
+{display:inline;
+}
+.top-menu a
+{width:150px;
+height:40px;
+float:left;
+color:dimgrey;
+font-family:"Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif";
+font-weight:bold;
+text-align:center;
+text-decoration:none;
+padding-top:10px;
+}
+.top-menu a:hover
+{
+ border-bottom:1px solid #6E4D37;
+}
+.slideimage
+{
+    width:1000px;
+    height:400px;
+    float:left;
+    background-color:brown;
+}
+.footer
+{
+    width:1330px;
+    height:300px;
+    float:left;
+    background-color:#F1F1F1;
+    border-top:1px solid #6E4D37;
+    margin-left:10px;
+}
+
+.under-footer
+{
+    width:300px;
+    height:270px;
+    margin:15px;
+    float:left;
+}
+.footer-title
+{
+     width:300px;
+    height:50px;
+    float:left;
+    border-bottom:1px solid #808080;
+}
+
+
+.banner
+{
+    width:1200px;
+    height:450px;
+    float:left;
+    margin:20px;
+    margin-left:40px;
+}
+.banner-box
+{
+    width:550px;
+    height:300px;
+    float:left;
+    background-color:#6E4D37;
+    opacity:0.5;
+    margin-left:400px;
+    margin-top:-400px;
+    filter: alpha(opacity=50);
+}
+.deal-header
+{
+    width:1200px;
+    height:60px;
+    float:left;
+    margin-left:70px;
+    margin-top:10px;
+}
+.deal-header1
+{
+    width:350px;
+    height:40px;
+    float:left;
+    margin:10px;
+    margin-left:40px;
+    border:1px solid #000000;
+}
+.deal-header2
+{
+   width:350px;
+    height:40px;
+    float:left;
+    margin:10px;
+    margin-left:20px;
+    border:1px solid #000000;
+}
+.deal-header3
+{
+    width:350px;
+    height:40px;
+    float:left;
+    margin:10px;
+    margin-left:20px;
+    border:1px solid #000000;
+}
+
+/* hot deals*/
+.hotdeal_box
+{
+    width:1290px;
+    height:560px;
+    float:left;
+    
+}
+.hotdeal_header
+{
+    width:1290px;
+    height:60px;
+    float:left;
+}
+.line
+{
+    width:1000px;
+    height:37px;
+    float:left;
+    border-bottom:1px solid #CFD0D0;
+    margin-right:10px;
+}
+.hotdeal_next
+{
+    width:60px;
+    height:30px;
+    float:left;
+    margin-top:25px;
+
+}
+.hotdeal_imageBox
+{
+    width:1290px;
+    height:460px;
+    float:left;
+}
+.hotdeal_image
+{
+    width:235px;
+    height:420px;
+    float:left;
+    border:1px solid #E2E5F1;
+    margin:10px;
+}
+.hotdeal_details
+{
+    width:215px;
+    height:150px;
+    float:left;
+    margin-left:10px;
+}
+.hotdeal-price
+{
+    width:70px;
+    height:25px;
+    float:left;
+    background-color:#DCF1D3;
+    margin-left:20px;
+    margin-top:-5px;
+}
+/* women*/
+.women-box
+{
+    width:1290px;
+    height:1000px;
+    float:left;
+}
+.women-image
+{
+    width:1220px;
+    height:420px;
+    float:left;
+    background-color:#fff;
+    margin-left:30px;
+    
+}
+.women-image1
+{
+    width:550px;
+    height:420px;
+    float:left;
+    background-color:#fff;
+    margin-right:20px;
+}
+.women-title
+{
+    width:550px;
+    height:60px;
+    float:left;
+    background-color:#fff;
+    color:#323030;
+    font-size:22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+    margin-top:10px;
+}
+.women-image2
+{
+    width:650px;
+    height:420px;
+    float:left;
+}
+.women-image3
+{
+    width:300px;
+    height:200px;
+    float:left;
+    margin:0px 10px 10px 10px;
+    
+}
+.women-shadow
+{
+    width:300px;
+    height:200px;
+    float:left;
+    background-color:#808080;
+    opacity:0.6;
+    filter: alpha(opacity=60);
+    margin-top:-205px;
+}
+.women-shadow2
+{
+    width:300px;
+    height:200px;
+    float:left;
+    background-color:#808080;
+    opacity:0.6;
+    filter: alpha(opacity=60);
+    margin-top:-183px;
+}
+.women-shadow3
+{
+    width:300px;
+    height:200px;
+    float:left;
+    background-color:#808080;
+    opacity:0.6;
+    filter: alpha(opacity=60);
+    margin-top:-171px;
+}
+.women-shadow4
+{
+    width:300px;
+    height:200px;
+    float:left;
+    background-color:#808080;
+    opacity:0.7;
+    filter: alpha(opacity=70);
+    margin-top:-161px;
+}
+.women-shadowText
+{
+    width:150px;
+    height:30px;
+    float:left;
+    margin-left:100px;
+    margin-top:80px; 
+}
+.line2
+{
+    width:820px;
+    height:37px;
+    float:left;
+    border-bottom:1px solid #CFD0D0;
+    margin-right:10px;
+}
+/* men*/
+/* home wear*/
+/* kid*/
+/* grocery*/
